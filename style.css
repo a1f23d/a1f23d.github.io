@@ -6,6 +6,7 @@ body {
 	background: #D6C5E0;
 	width: 100%;
 	height: 250px;
+	object-fit: cover;
 }
 
 .banner__content {

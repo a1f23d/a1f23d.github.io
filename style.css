@@ -1,6 +1,6 @@
 body {
 	background-color: #9776b6;
-}
+
 
 .banner {
 	background: #D6C5E0;
@@ -9,4 +9,6 @@ body {
 .banner__content {
 	padding: 16px;
 	max-width: 1000px;
+}
+
 }

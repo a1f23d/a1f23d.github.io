@@ -1,5 +1,11 @@
 body {
 	background-color: #9776b6;
-	font-family: Handel Gothic;
+
+@font-face {
+	font-family: "Handel Gothic";
+	src: local("HandelGo"), url("HandelGo.ttf");
+
+
+}
 }
 

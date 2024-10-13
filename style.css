@@ -1,12 +1,15 @@
-body {
-	background-color: #9776b6;
-
 @font-face {
-	font-family: "Handel Gothic";
-	src: local("HandelGo");
-	src: url("a1f23d.github.io/HandelGo.ttf");
+	font-family: 'Handel Gothic';
+	src: local('HandelGo'),
+	src: url('HandelGo.ttf') format('truetype'),
 
 
 }
+
+body {
+	background-color: #9776b6;
+	font-family: 'Handel Gothic';
+
+
 }
 

@@ -1,8 +1,8 @@
 @font-face {
 	font-family: 'Handel Gothic';
-	src: local('HandelGo'),
-		 url('HandelGo.ttf') format('truetype'),
-		 url('HandelGo.woff') format('woff');
+	src: url('HandelGo.ttf') format('truetype'),
+		 url('HandelGo.woff') format('woff'),
+		 url('HandelGo.eot?') format('embedded-opentype');
 
 
 }

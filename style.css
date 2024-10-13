@@ -3,7 +3,8 @@ body {
 
 @font-face {
 	font-family: "Handel Gothic";
-	src: local("HandelGo"), url("HandelGo.ttf");
+	src: local("HandelGo");
+	src: url("a1f23d.github.io/HandelGo.ttf");
 
 
 }

@@ -21,5 +21,9 @@ li {
 	list-style: none; display: inline-block;
 }
 
+li a{
+	font-size: 18px; font-weight: bold; margin-right: 25px;
+}
+
 }
 

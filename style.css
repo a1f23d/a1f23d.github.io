@@ -14,16 +14,17 @@ body {
 .nav {
 	background-color: #8276B5;
 	padding-right: 15px; padding-left: 15px;
-
-}
-
 li {
-	list-style: none; display: inline-block;
+	display: inline-block;
 }
 
 li a{
 	font-size: 18px; font-weight: bold; margin-right: 25px;
 }
+
+}
+
+
 
 }
 

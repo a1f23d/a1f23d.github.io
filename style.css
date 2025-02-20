@@ -18,6 +18,7 @@ body {
 li {
 	display: inline-block;
 	font-size: 25px; font-weight: bold; margin-right: 25px;
+	list-style: none;
 }
 
 

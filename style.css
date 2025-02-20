@@ -17,11 +17,9 @@ body {
 
 li {
 	display: inline-block;
-}
-
-li a{
 	font-size: 25px; font-weight: bold; margin-right: 25px;
 }
+
 
 }
 

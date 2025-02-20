@@ -10,6 +10,7 @@
 body {
 	background-color: #9776b6;
 	font-family: 'Handel Gothic';
+	text-decoration: none;
 .nav {
 	background-color: #8276B5;
 	padding-right: 15px; padding-left: 15px;
